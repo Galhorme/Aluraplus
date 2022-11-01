@@ -1,0 +1,1 @@
+Responsabilidade e templates
